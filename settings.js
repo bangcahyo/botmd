@@ -39,9 +39,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "𝓡𝓪𝓬𝓪 𝓒𝓱𝓪𝓷 𝓜𝓭"//namabot kalian
+global.botname = "𝐑𝐚𝐫𝐚 𝐂𝐡𝐚𝐧 𝐌𝐝"//namabot kalian
 global.ownername = "Ƈαԋყσ ʂƚσɾҽ" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "https://youtube.com/@CahyoOfc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@CahyoOfc" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/bng_chyo"//bebas
 global.email = "bngcahyo223@gmail.com" //bebas
@@ -55,7 +55,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Raca Chan Mdོ' //sticker wm ubah
+global.packname = '© Rara Chan Md' //sticker wm ubah
 global.author = 'Di Buat Oleh CahyoOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
